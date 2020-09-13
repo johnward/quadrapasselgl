@@ -1,11 +1,11 @@
 #include "Sprite.h"
 
-Sprite::Sprite()
+Sprite::Sprite(const char *fileLoc)
 {
 
 }
 
-void Sprite::drawpieces()
+void Sprite::drawpieces(glm::vec2 position)
 {
 
 }
